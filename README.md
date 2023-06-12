@@ -14,3 +14,27 @@ Here are the few area that we could  work upon to achieve those things in day to
 For dealing this these issues.Using React JS  i had developed an web application. Thats why I had developed this prototype of application that works these areas. Make them connected the services that could help. This is contribution towards the senior  citizens.
 
 Tehnologies Used : React JS, Visual studio code, Github, git.
+
+
+![slide 1](https://github.com/shivam361v/companion-for-elderone/assets/123078985/732b6a78-f1c8-47af-81a4-0a6cae826455)
+
+
+![slide 2](https://github.com/shivam361v/companion-for-elderone/assets/123078985/dd07ce8b-0d6d-4cba-85d2-2d3a378b9313)
+
+
+![slide 3](https://github.com/shivam361v/companion-for-elderone/assets/123078985/ded7f946-1d40-4f8e-b13d-4eef918547d8)
+
+
+![slide 4](https://github.com/shivam361v/companion-for-elderone/assets/123078985/277e1780-861b-49e3-92e8-e799de5cc6e8)
+
+
+![slide 5](https://github.com/shivam361v/companion-for-elderone/assets/123078985/35469149-b350-401f-b32e-f1c43670ace0)
+
+
+![slide  6](https://github.com/shivam361v/companion-for-elderone/assets/123078985/4511160e-e18c-4eb2-a3ce-f0775205b0d8)
+
+
+![slide 7](https://github.com/shivam361v/companion-for-elderone/assets/123078985/51db832d-4727-4687-87b1-3829bb2075fa)
+
+
+![slide 8](https://github.com/shivam361v/companion-for-elderone/assets/123078985/8b8c6278-ff0d-4617-9a59-c68bc5a4a0b8)
